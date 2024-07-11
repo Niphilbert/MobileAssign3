@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459779593905",
+    "project_id": "authassignment-cf6a6",
+    "storage_bucket": "authassignment-cf6a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459779593905:android:78cb7be65e9b205cc87490",
+        "android_client_info": {
+          "package_name": "com.example.auth_a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOc5HgM31niHf9DgPr8O97X9SLdCr7oPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
